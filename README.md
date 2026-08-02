@@ -1,4 +1,3 @@
-# DataAnalysis
 # E-Commerce Analytics: From Raw Data to Shareholder-Ready Insights
 
 An end-to-end analytics project simulating how a data analyst would support a product/leadership team at an e-commerce company — from designing the underlying data, to writing the SQL that answers real business questions, to presenting findings to stakeholders.
@@ -93,5 +92,5 @@ psql -d your_db -f sql/ecommerce_analysis.sql
 
 ## Author
 
-Jaideep Kumar — built as a portfolio project to practice SQL, data modeling, and business-facing analytics communication.
-(https://www.linkedin.com/in/jaideep-kumar69/) · [(https://jaideepkumar.site/)]
+[Your Name] — built as a portfolio project to practice SQL, data modeling, and business-facing analytics communication.
+[LinkedIn] · [Portfolio/Website]
