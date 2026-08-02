@@ -2,7 +2,7 @@
 
 An end-to-end analytics project simulating how a data analyst would support a product/leadership team at an e-commerce company — from designing the underlying data, to writing the SQL that answers real business questions, to presenting findings to stakeholders.
 
-> **Note on the data:** The dataset is synthetically generated (not scraped or sourced from a real company), built to mimic realistic e-commerce patterns — seasonality, repeat-customer behavior, correlated pricing, and intentional missing/messy values — so the cleaning and analysis steps reflect real-world conditions. Full generation logic is in [`scripts/generate_data.py`](scripts/generate_data.py).
+> **Note on the data:** The dataset is synthetically generated (not scraped or sourced from a real company), built to mimic realistic e-commerce patterns — seasonality, repeat-customer behavior, correlated pricing, and intentional missing/messy values — so the cleaning and analysis steps reflect real-world conditions. Full generation logic is in [`scripts/generate_data.py`](ecommerce-analytics-project/scripts/generate_data.py). 
 
 ## Why this project
 
@@ -24,11 +24,11 @@ Most portfolio SQL projects stop at "here are some queries." This one goes furth
 - Cancellation and return rates are **flat across every shipping and payment method** (7–11%) — ruling out fulfillment/checkout friction as a root cause, and pointing instead toward product-level issues in categories like Toys & Games (16.0% return rate).
 - **Paid Social and Referral signups convert to a first order 8–9 points lower** than Organic Search and Email — a likely candidate for reallocating acquisition budget.
 
-Full narrative, charts, and recommendations: [`presentation/solstice_commerce_shareholder_review.pptx`](presentation/solstice_commerce_shareholder_review.pptx)
+Full narrative, charts, and recommendations: [`presentation/solstice_commerce_shareholder_review.pptx`](ecommerce-analytics-project/presentation/solstice_commerce_shareholder_review.pptx)
 
 <p align="center">
-  <img src="presentation/screenshots/02_executive_summary.jpg" width="410" alt="Executive summary slide">
-  <img src="presentation/screenshots/03_seasonality.jpg" width="410" alt="Seasonality analysis slide">
+  <img src="ecommerce-analytics-project/presentation/screenshots/02_executive_summary.jpg" width="410" alt="Executive summary slide">
+  <img src="ecommerce-analytics-project/presentation/screenshots/03_seasonality.jpg" width="410" alt="Seasonality analysis slide">
 </p>
 
 ## Repo structure
