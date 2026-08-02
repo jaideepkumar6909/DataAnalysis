@@ -92,5 +92,5 @@ psql -d your_db -f sql/ecommerce_analysis.sql
 
 ## Author
 
-[Your Name] — built as a portfolio project to practice SQL, data modeling, and business-facing analytics communication.
-[LinkedIn] · [Portfolio/Website]
+Jaideep Kumar — built as a portfolio project to practice SQL, data modeling, and business-facing analytics communication.
+[[LinkedIn](https://www.linkedin.com/in/jaideep-kumar69/) · [[Portfolio](https://jaideepkumar.site/)
